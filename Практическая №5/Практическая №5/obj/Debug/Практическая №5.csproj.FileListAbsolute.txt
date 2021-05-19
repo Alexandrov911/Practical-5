@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Практическая №5\Практическая №5\bin\Debug\Практическая №5.exe.config
+C:\Users\Lenovo\source\repos\Практическая №5\Практическая №5\bin\Debug\Практическая №5.exe
+C:\Users\Lenovo\source\repos\Практическая №5\Практическая №5\bin\Debug\Практическая №5.pdb
+C:\Users\Lenovo\source\repos\Практическая №5\Практическая №5\obj\Debug\Практическая №5.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Практическая №5\Практическая №5\obj\Debug\Практическая №5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Практическая №5\Практическая №5\obj\Debug\Практическая №5.exe
+C:\Users\Lenovo\source\repos\Практическая №5\Практическая №5\obj\Debug\Практическая №5.pdb
